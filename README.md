@@ -4,6 +4,7 @@
 <a href="https://codeclimate.com/github/devopsicon/files-microservice/test_coverage"><img src="https://api.codeclimate.com/v1/badges/ee91316741bd604fa06f/test_coverage" /></a>
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Docker Repository on Quay](https://quay.io/repository/devopsicon/filesmicroservice/status "Docker Repository on Quay")](https://quay.io/repository/devopsicon/filesmicroservice)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/devopsicon/python)
 
 Files Microservice
 Files service is developed using Tornado framework of Python language, which is designed for extreme high performance asynchronous operation which is ideal for 
